@@ -1,0 +1,133 @@
+Version:1.1
+Light Support Mech
+A
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:3
+
+Mass:35
+Engine:245 XL Engine
+Structure:Endo-Steel
+Gyro:XL Gyro
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:7
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:8
+RA Armor:8
+LT Armor:13
+RT Armor:13
+CT Armor:13
+HD Armor:9
+LL Armor:11
+RL Armor:11
+RTL Armor:3
+RTR Armor:3
+RTC Armor:4
+
+Weapons:6
+1 ISFluidGun, Left Arm, Ammo:80
+1 ISFluidGun, Left Arm
+1 ISFluidGun, Right Arm
+1 ISFluidGun, Right Arm
+1 ISERFlamer, Left Arm
+1 ISERFlamer, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISFluidGun
+ISFluidGun
+ISFluidGun
+ISFluidGun
+ISERFlamer
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISFluidGun
+ISFluidGun
+ISFluidGun
+ISFluidGun
+ISERFlamer
+-Empty-
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+Jump Jet
+ISFluidGunInfernoFuelAmmo
+ISFluidGunPaintAmmo
+ISFluidGunOilSlickAmmo
+ISFluidGunCorrosiveAmmo
+Endo-Steel
+Endo-Steel
+Endo-Steel
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Jump Jet
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Endo-Steel
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Endo-Steel
