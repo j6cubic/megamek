@@ -60,6 +60,9 @@ Tracked
 </armor>
 
 <Body Equipment>
+CLArmoredMotiveSystem
+ISC3iUnit
+CLAngelECMSuite
 </Body Equipment>
 
 <Front Equipment>
