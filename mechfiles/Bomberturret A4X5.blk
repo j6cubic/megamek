@@ -17,7 +17,7 @@ Bomberturret
 </Name>
 
 <Model>
-X5
+A4X5
 </Model>
 
 <year>
@@ -53,11 +53,11 @@ Tracked
 
 <Body Equipment>
 CLArrowIV
-CLArrowIVDavy Crockett-MAmmo
-CLArrowIVDavy Crockett-MAmmo
+CLArrowIVInferno-IVAmmo
+CLArrowIVInferno-IVAmmo
 CLArrowIVAmmo
 CLArrowIVAmmo
-CLArrowIVAmmo
+CLArrowIVFASCAMAmmo
 </Body Equipment>
 
 <Front Equipment>
