@@ -8,16 +8,17 @@ Era:3070
 Rules Level:3
 
 Mass:35
-Engine:210 XL Engine
-Structure:Endo-Steel
-Gyro:XL Gyro
+Engine:210 XL Engine(IS)
+Structure:Endo Steel
 Myomer:Standard
+Cockpit:Standard Cockpit
+Gyro:XL Gyro
 
 Heat Sinks:10 Double
 Walk MP:6
 Jump MP:0
 
-Armor:Standard Armor
+Armor:Standard(Inner Sphere)
 LA Armor:8
 RA Armor:8
 LT Armor:13
@@ -31,104 +32,124 @@ RTR Armor:3
 RTC Armor:4
 
 Weapons:7
-1 ISFluidGun, Left Arm, Ammo:120
-1 ISFluidGun, Left Arm
-1 ISFluidGun, Right Arm
-1 ISFluidGun, Right Arm
-1 ISERMediumLaser, Right Arm
-1 ISERMediumLaser, Left Arm
-1 ISSmallLaser, Head
+Fluid Gun, Left Arm
+Fluid Gun, Left Arm
+ER Medium Laser, Left Arm
+Fluid Gun, Right Arm
+Fluid Gun, Right Arm
+ER Medium Laser, Right Arm
+Small Laser, Head
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISFluidGun
-ISFluidGun
-ISFluidGun
-ISFluidGun
+IS Fluid Gun
+IS Fluid Gun
+IS Fluid Gun
+IS Fluid Gun
 ISERMediumLaser
--Empty-
-Endo-Steel
-Endo-Steel
+Endo Steel
+Endo Steel
+ISFluidGun Ammo
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-ISFluidGun
-ISFluidGun
-ISFluidGun
-ISFluidGun
+IS Fluid Gun
+IS Fluid Gun
+IS Fluid Gun
+IS Fluid Gun
 ISERMediumLaser
+Endo Steel
+Endo Steel
 -Empty-
-Endo-Steel
-Endo-Steel
 
 Left Torso:
-Engine
-Engine
-Engine
-ISDouble Heat Sink
-ISDouble Heat Sink
-ISDouble Heat Sink
-ISFluidGunCoolantAmmo
-ISFluidGunCoolantAmmo
-ISFluidGunCoolantAmmo
-Endo-Steel
-Endo-Steel
-Endo-Steel
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Endo Steel
+Endo Steel
+Endo Steel
+ISFluidGun Ammo
+ISFluidGun Ammo
+ISFluidGun Ammo
 
 Right Torso:
-Engine
-Engine
-Engine
-ISDouble Heat Sink
-ISDouble Heat Sink
-ISDouble Heat Sink
-ISFluidGunCoolantAmmo
-ISFluidGunCoolantAmmo
-ISFluidGunCoolantAmmo
-Endo-Steel
-Endo-Steel
-Endo-Steel
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Endo Steel
+Endo Steel
+Endo Steel
+ISFluidGun Ammo
+ISFluidGun Ammo
+ISFluidGun Ammo
 
 Center Torso:
-Engine
-Engine
-Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
 Gyro
 Gyro
 Gyro
 Gyro
 Gyro
 Gyro
-Engine
-Engine
-Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
 
 Head:
 Life Support
 Sensors
 Cockpit
-ISSmallLaser
+Small Laser
 Sensors
 Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Left Leg:
 Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Endo-Steel
-Endo-Steel
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 
 Right Leg:
 Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Endo-Steel
-Endo-Steel
+Endo Steel
+Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
